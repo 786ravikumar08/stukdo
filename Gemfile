@@ -39,3 +39,5 @@ gem 'simple_form'
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
+
+gem 'auto_html', '~>1.6.4'
